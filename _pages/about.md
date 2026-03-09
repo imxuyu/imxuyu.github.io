@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS), supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
+I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the **University of Chinese Academy of Sciences**, supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
 
 Currently, I am a Research Intern at **ByteDance**, working on unified multimodal video generation research. Prior to this, I was a Research Intern at **Tencent Hunyuan**, where I worked on unified image generation models research. 
 
-Before starting my Ph.D., I received my Master of Science in Computer Science from **The University of Hong Kong (HKU)**, supervised by Prof. [Benjamin Kao](https://scholar.google.com/citations?hl=en&user=TwSParMAAAAJ), where my research focus on Visual Question Answering. I also spent a wonderful time as a Research Assistant at **Kyoto University** in Japan, working on image enhancement algorithms under the guidance of Prof. [Masaaki Iiyama](https://scholar.google.com/citations?hl=en&user=MI-yYJYAAAAJ) and Dr. [Atsushi Hashimoto](https://scholar.google.com/citations?user=DHIGVL8AAAAJ).
+Before starting my Ph.D., I received my Master of Science in Computer Science from **The University of Hong Kong**, supervised by Prof. [Benjamin Kao](https://scholar.google.com/citations?hl=en&user=TwSParMAAAAJ), where my research focus on Visual Question Answering. I also spent a wonderful time as a Research Assistant at **Kyoto University** in Japan, working on image enhancement algorithms supervised by Prof. [Masaaki Iiyama](https://scholar.google.com/citations?hl=en&user=MI-yYJYAAAAJ) and Dr. [Atsushi Hashimoto](https://scholar.google.com/citations?user=DHIGVL8AAAAJ).
 
 My research interests lie primarily in Visual Generation and Multimodal Large Language Models. I am passionate about advancing the frontiers of Artificial Intelligence Generated Content (AIGC) and multimodal understanding.
 
@@ -34,7 +34,6 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 - *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M/) has been accepted by ACM TOG 2025!
 
 # 📝 Selected Publications 
-
 <!-- paper x -->
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TAG-MoE.png' loading="lazy" alt="TAG-MoE"></div></div>
@@ -101,8 +100,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 <p class="conf-color">ACM Transactions on Graphics (TOG'25)</p>
 
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-B4M-orange.svg)](https://yuci-gpt.github.io/B4M/) [![arxiv](https://img.shields.io/badge/ArXiv-2403.19456-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2403.19456) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2403.19456) [![code](https://img.shields.io/github/stars/ICTMCG/B4M?style=social&label=Code+Stars)](https://github.com/ICTMCG/B4M)
-
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-B4M-orange.svg)](https://yuci-gpt.github.io/B4M/) [![arxiv](https://img.shields.io/badge/ArXiv-2403.19456-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2403.19456) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2403.19456) [![code](https://img.shields.io/github/stars/ICTMCG/Break-for-make?style=social&label=Code+Stars)](https://github.com/ICTMCG/Break-for-make)
 </div>
 </div>
 

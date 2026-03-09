@@ -94,7 +94,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 <div class='paper-box-text' markdown="1">
 [B4M: Breaking Low-Rank Adapter for Making Content-Style Customization](https://dl.acm.org/doi/full/10.1145/3728461)
 
-**Yu Xu**, F Tang, J Cao, Y Zhang, O Deussen, W Dong, J Li, TY Lee
+**Yu Xu**, Fan Tang, Juan Cao, Yuxin Zhang, Oliver Deussen, Weiming Dong, Jintao Li, Tong-Yee Lee
 
 <b><u>TL;DR:</u></b> B4M introduces a novel "break-for-make" pipeline that disentangles content and style customization by separating LoRA into distinct sub-parameter spaces via <strong>Partly Learnable Projection (PLP)</strong>, and harmoniously fuses them using <strong>Riemannian Preconditioning</strong>.
 

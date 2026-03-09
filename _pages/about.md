@@ -34,8 +34,8 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 - *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M/) has been accepted by ACM TOG 2025!
 
 # 📝 Publications 
-<!-- paper x -->
 
+<!-- paper x -->
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TAG-MoE.png' loading="lazy" alt="TAG-MoE"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +53,6 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 </div>
 
 <!-- paper x -->
-
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">TOG 2026</div><img src='images/HeadRouter.png' loading="lazy" alt="HeadRouter"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,6 +68,41 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 </div>
 </div>
+
+<!-- paper x -->
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">TOG 2026</div><img src='images/HeadRouter.png' loading="lazy" alt="HeadRouter"></div></div>
+<div class='paper-box-text' markdown="1">
+[Headrouter: A training-free image editing framework for mm-dits by adaptively routing attention heads](https://yuci-gpt.github.io/HeadRouter/)
+
+**Yu Xu**, Fan Tang, Juan Cao, Xiaoyu Kong, Yuxin Zhang, Jintao Li, Oliver Deussen, Tong-Yee Lee
+
+<b><u>TL;DR:</u></b> <p><b><u>TL;DR:</u></b> HeadRouter investigates the semantic sensitivity of attention heads in MM-DiTs  and introduces a <strong>training-free</strong> framework that adaptively routes and reinforces these heads for instance-specific image editing.
+
+<p class="conf-color">ACM Transactions on Graphics (TOG'26)</p>
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-HeadRouter-orange.svg)](https://yuci-gpt.github.io/HeadRouter/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2411.15034) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2411.15034) [![code](https://img.shields.io/github/stars/ICTMCG/HeadRouter?style=social&label=Code+Stars)](https://github.com/ICTMCG/HeadRouter)
+
+</div>
+</div>
+
+<!-- paper x -->
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">SIGGRAPH ASIA 2025</div><img src='images/In-Context-Brush.png' loading="lazy" alt="In-Context-Brush"></div></div>
+<div class='paper-box-text' markdown="1">
+[In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation](https://yuci-gpt.github.io/In-Context-Brush/)
+
+**Yu Xu**, Fan Tang, You Wu, Lin Gao, Oliver Deussen, Hongbin Yan, Jintao Li, Juan Cao, Tong-Yee Lee
+
+<b><u>TL;DR:</u></b> <p><b><u>TL;DR:</u></b> In-Context Brush is a zero-shot customized subject insertion framework that reformulates the task as In-Context Learning (ICL) in MM-DiTs, utilizing latent feature shifting and head-wise reweighting to achieve high-fidelity, text-controllable subject injection without any model tuning.
+
+<p class="conf-color">ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH ASIA'26)</p>
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-HeadRouter-orange.svg)](https://yuci-gpt.github.io/HeadRouter/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2411.15034) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2411.15034) [![code](https://img.shields.io/github/stars/ICTMCG/HeadRouter?style=social&label=Code+Stars)](https://github.com/ICTMCG/HeadRouter)
+
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards

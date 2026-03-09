@@ -28,12 +28,12 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our paper [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/) has been accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [Re-align](https://arxiv.org/abs/2601.05124) has been accepted by CVPR 2026!
-- *2026.02*: &nbsp;🎉🎉 Our paper [Meta-CoT] has been accepted by CVPR 2026!
+- *2026.02*: &nbsp;🎉🎉 Our paper Meta-CoT has been accepted by CVPR 2026!
 - *2026.01*: &nbsp;🎉🎉 Our paper [HeadRouter](https://yuci-gpt.github.io/headrouter/) has been accepted by ACM TOG 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper [In-Context Brush](https://yuci-gpt.github.io/In-Context-Brush/) has been accepted by SIGGRAPH ASIA 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M/) has been accepted by ACM TOG 2025!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!-- paper x -->
 <div class='paper-box'>
@@ -83,7 +83,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 <p class="conf-color">ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH ASIA'26)</p>
 
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-InContextBrush-orange.svg)](https://yuci-gpt.github.io/In-Context-Brush/) [![arxiv](https://img.shields.io/badge/ArXiv-2505.20271-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.20271) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2505.20271) [![code](https://img.shields.io/github/stars/ICTMCG/In-context-Brush?style=social&label=Code+Stars)](https://github.com/ICTMCG/In-context-Brush)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-InContextBrush-orange.svg)](https://yuci-gpt.github.io/In-Context-Brush/) [![arxiv](https://img.shields.io/badge/ArXiv-2505.20271-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.20271) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2505.20271) [![code](https://img.shields.io/github/stars/ICTMCG/In-context-Brush?style=social&label=Code+Stars)](https://github.com/ICTMCG/In-context-Brush) [![youtube](https://img.shields.io/badge/YouTube-Video-FF0000.svg?logo=youtube&logoColor=white)](https://youtu.be/qtQH4IbiyH8)
 
 </div>
 </div>

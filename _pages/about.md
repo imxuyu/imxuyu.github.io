@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS), co-advised by Prof. [Juan Cao]([https://github.com/](https://scholar.google.com/citations?user=fSBdNg0AAAAJ)), Prof. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
+I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS), co-advised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ), Prof. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
 My research interests lie primarily in Visual Generation and Multimodal Large Language Models. I am passionate about advancing the frontiers of AI-driven content creation and multimodal understanding.
 Currently, I am a Research Intern at **ByteDance**, focusing on foundational research for multimodal video generation. Prior to this, I was a Research Intern at **Tencent Hunyuan**, where I worked on unified image generation models. 
 
@@ -30,9 +30,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2026.02*: &nbsp;🎉🎉 Our paper [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/) has been accepted by CVPR 2026!
 - *2026.01*: &nbsp;🎉🎉 Our paper [HeadRouter](https://yuci-gpt.github.io/headrouter/) has been accepted by ACM TOG 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper [In-Context Brush](https://yuci-gpt.github.io/In-Context-Brush/) has been accepted by SIGGRAPH ASIA 2025!
-- *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M//) has been accepted by ACM TOG 2025!
+- *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M/) has been accepted by ACM TOG 2025!
 
 # 📝 Publications 
+<!-- paper x -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TAG-MoE.png' loading="lazy" alt="TAG-MoE"></div></div>
@@ -50,42 +51,23 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<!-- paper x -->
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TAG-MoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/HeadRouter.png' loading="lazy" alt="HeadRouter"></div></div>
 <div class='paper-box-text' markdown="1">
-[TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts](https://yuci-gpt.github.io/TAG-MoE/)
-
-**Yu Xu**, Hongbin Yan, Juan Cao, Yiji Cheng, Tiankai Hang, Runze He, Zijin Yin, Shiyi Zhang, Yuxin Zhang, Jintao Li, Chunyu Wang, Qinglin Lu, Tong-Yee Lee, Fan Tang
-
-<b><u>TL;DR:</u></b> Standard MoE routers are task-agnostic and struggle with conflicting generative objectives. TAG-MoE introduces <strong>Predictive Alignment Regularization</strong> to explicitly align internal routing decisions with high-level task semantics, transforming the MoE gate into an intelligent, <strong>task-aware dispatch center</strong> for unified image synthesis.
-
-<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR'26)</p>
-
-[**Project**](https://yuci-gpt.github.io/TAG-MoE/) | [**Code**](https://github.com/ICTMCG/TAG-MoE)
-
-</div>
-</div>
-
-<!-- paper 10 -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Headrouter: A training-free image editing framework for mm-dits by adaptively routing attention heads](https://yuci-gpt.github.io/HeadRouter/)
 
 **Yu Xu**, Fan Tang, Juan Cao, Xiaoyu Kong, Yuxin Zhang, Jintao Li, Oliver Deussen, Tong-Yee Lee
 
-<p><b><u>TL;DR:</u></b> Standard MoE routers are task-agnostic and struggle with conflicting generative objectives. TAG-MoE introduces <strong>Predictive Alignment Regularization</strong> to explicitly align internal routing decisions with high-level task semantics, transforming the MoE gate into an intelligent, <strong>task-aware dispatch center</strong> for unified image synthesis.</p>
+<b><u>TL;DR:</u></b> <p><b><u>TL;DR:</u></b> This work investigates the semantic sensitivity of attention heads in MM-DiTs  and introduces a <strong>training-free</strong> framework that adaptively routes and reinforces these heads for instance-specific image editing.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOG 2026</div><img src='images/HeadRouter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<p class="conf-color">ACM Transactions on Graphics (TOG'26)</p>
 
-[Headrouter: A training-free image editing framework for mm-dits by adaptively routing attention heads](https://yuci-gpt.github.io/HeadRouter/)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-HeadRouter-orange.svg)](https://yuci-gpt.github.io/HeadRouter/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2411.15034) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2411.15034) [![code](https://img.shields.io/github/stars/ICTMCG/TAG-MoE?style=social&label=Code+Stars)](https://github.com/ICTMCG/HeadRouter)
 
-**Yu Xu**, Fan Tang, Juan Cao, Xiaoyu Kong, Yuxin Zhang, Jintao Li, Oliver Deussen, Tong-Yee Lee
-
-<p><b><u>TL;DR:</u></b> This work investigates the semantic sensitivity of attention heads in MM-DiTs  and introduces a <strong>training-free</strong> framework that adaptively routes and reinforces these heads for instance-specific image editing.</p>
+</div>
+</div>
 
 
 # 🎖 Honors and Awards

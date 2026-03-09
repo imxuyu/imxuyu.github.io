@@ -34,21 +34,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<!-- paper 10 -->
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/reason-svg.png' loading="lazy" alt="ReasonSVG"></div></div>
-<div class='paper-box-text' markdown="1">
-[Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499)
-
-**Ximing Xing**, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu
-
-<b><u>TL;DR:</u></b> Reason-SVG introduces the first framework to enhance SVG generation in LLMs through a **"Drawing-with-Thought" (DwT)** paradigm—combining explicit design reasoning with code—trained via supervised fine-tuning and **HyperReward-driven** reinforcement learning.
-
-</div>
-</div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TAG-MoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,6 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 <p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR'26)</p>
 
 [**Project**](https://yuci-gpt.github.io/TAG-MoE/) | [**Code**](https://github.com/ICTMCG/TAG-MoE)
+
 </div>
 </div>
 

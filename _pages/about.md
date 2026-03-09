@@ -27,8 +27,9 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our paper [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/) has been accepted by CVPR 2026!
-- *2026.02*: &nbsp;🎉🎉 Our paper [Re-align](https://arxiv.org/abs/2601.05124) has been accepted by CVPR 2026!
+- *2026.02*: &nbsp;🎉🎉 Our paper [Re-align](https://hrz2000.github.io/realign/) has been accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper Meta-CoT has been accepted by CVPR 2026!
+- *2026.02*: &nbsp;🎉🎉 Our paper [GVCoT](https://pris-cv.github.io/GVCoT/) has been accepted by CVPR 2026-findings!
 - *2026.01*: &nbsp;🎉🎉 Our paper [HeadRouter](https://yuci-gpt.github.io/headrouter/) has been accepted by ACM TOG 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper [In-Context Brush](https://yuci-gpt.github.io/In-Context-Brush/) has been accepted by SIGGRAPH ASIA 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M/) has been accepted by ACM TOG 2025!

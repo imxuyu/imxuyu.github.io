@@ -80,9 +80,9 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 <b><u>TL;DR:</u></b> In-Context Brush is a zero-shot customized subject insertion framework that reformulates the task as In-Context Learning (ICL) in MM-DiTs, utilizing latent feature shifting and head-wise reweighting to achieve high-fidelity, text-controllable subject injection without any model tuning.
 
-<p class="conf-color">ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH ASIA'26)</p>
+<p class="conf-color">ACM Special Interest Group on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH ASIA'26)</p>
 
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-InContextBrush-orange.svg)](https://yuci-gpt.github.io/In-Context-Brush/) [![arxiv](https://img.shields.io/badge/ArXiv-2505.20271-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.20271) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2505.20271) [![code](https://img.shields.io/github/stars/ICTMCG/In-context-Brush?style=social&label=Code+Stars)](https://github.com/ICTMCG/In-context-Brush) [![youtube](https://img.shields.io/badge/YouTube-Video-FF0000.svg?logo=youtube&logoColor=white)](https://youtu.be/qtQH4IbiyH8)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-InContextBrush-orange.svg)](https://yuci-gpt.github.io/In-Context-Brush/) [![arxiv](https://img.shields.io/badge/ArXiv-2505.20271-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.20271) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2505.20271) [![code](https://img.shields.io/github/stars/ICTMCG/In-context-Brush?style=social&label=Code+Stars)](https://github.com/ICTMCG/In-context-Brush) [![youtube](https://img.shields.io/badge/YouTube-Video-FF0000.svg?logo=youtube&logoColor=white)](https://youtu.be/qtQH4IbiyH8)[![wechat](https://img.shields.io/badge/WeChat-Blog-07C160.svg?logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/6-V-FQ2zavFnpkGgIND57Q)
 
 </div>
 </div>
@@ -100,7 +100,8 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 <p class="conf-color">ACM Transactions on Graphics (TOG'25)</p>
 
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-B4M-orange.svg)](https://yuci-gpt.github.io/B4M/) [![arxiv](https://img.shields.io/badge/ArXiv-2403.19456-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2403.19456) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2403.19456) [![code](https://img.shields.io/github/stars/ICTMCG/Break-for-make?style=social&label=Code+Stars)](https://github.com/ICTMCG/Break-for-make)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-B4M-orange.svg)](https://yuci-gpt.github.io/B4M/) [![arxiv](https://img.shields.io/badge/ArXiv-2403.19456-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2403.19456) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2403.19456) [![code](https://img.shields.io/github/stars/ICTMCG/Break-for-make?style=social&label=Code+Stars)](https://github.com/ICTMCG/Break-for-make)[![wechat](https://img.shields.io/badge/WeChat-Blog-07C160.svg?logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/gXG7jp4PvGE_YcNO0sQKrw)
+
 </div>
 </div>
 

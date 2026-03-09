@@ -120,7 +120,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
   
   - Proposed a task-aware gating mechanism in MoE for unified image generation and editing. (Accepted by **CVPR 2026**)
 
-  - Curated large-scale datasets and trained the unified image generation model, contributing to the visual generation capabilities of **Tencent Yuanbao**.
+  - Curated large-scale datasets and trained the image editing model, contributing to the visual generation capabilities of **Tencent Yuanbao**.
 
 
 

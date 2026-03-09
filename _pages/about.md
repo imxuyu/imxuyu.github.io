@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the **University of Chinese Academy of Sciences**, supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
+I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at **University of Chinese Academy of Sciences**, supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
 
 Currently, I am a Research Intern at **ByteDance**, working on unified multimodal video generation research. Prior to this, I was a Research Intern at **Tencent Hunyuan**, where I worked on unified image generation models research. 
 
@@ -42,7 +42,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 **Yu Xu**, Hongbin Yan, Juan Cao, Yiji Cheng, Tiankai Hang, Runze He, Zijin Yin, Shiyi Zhang, Yuxin Zhang, Jintao Li, Chunyu Wang, Qinglin Lu, Tong-Yee Lee, Fan Tang
 
-<b><u>TL;DR:</u></b> Standard MoE routers are task-agnostic and struggle with conflicting generative objectives. TAG-MoE introduces <strong>Predictive Alignment Regularization</strong> to explicitly align internal routing decisions with high-level task semantics, transforming the MoE gate into an intelligent, <strong>task-aware dispatch center</strong> for unified image synthesis.
+<b><u>TL;DR:</u></b> TAG-MoE introduces Predictive Alignment Regularization to explicitly align internal routing decisions with high-level task semantics, transforming the MoE gate into a task-aware dispatch center for unified image synthesis.
 
 <p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR'26)</p>
 
@@ -78,7 +78,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 **Yu Xu**, Fan Tang, You Wu, Lin Gao, Oliver Deussen, Hongbin Yan, Jintao Li, Juan Cao, Tong-Yee Lee
 
-<b><u>TL;DR:</u></b> In-Context Brush is a zero-shot customized subject insertion framework that reformulates the task as In-Context Learning (ICL) in MM-DiTs, utilizing latent feature shifting and head-wise reweighting to achieve high-fidelity, text-controllable subject injection without any model tuning.
+<b><u>TL;DR:</u></b> In-Context Brush reformulates the task as In-Context Learning (ICL) in MM-DiTs, utilizing latent feature shifting to achieve high-fidelity, text-controllable subject injection without any model tuning.
 
 <p class="conf-color">ACM Special Interest Group on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH ASIA'26)</p>
 
@@ -96,7 +96,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 **Yu Xu**, Fan Tang, Juan Cao, Yuxin Zhang, Oliver Deussen, Weiming Dong, Jintao Li, Tong-Yee Lee
 
-<b><u>TL;DR:</u></b> B4M introduces a novel "break-for-make" pipeline that disentangles content and style customization by separating LoRA into distinct sub-parameter spaces via <strong>Partly Learnable Projection (PLP)</strong>, and harmoniously fuses them using <strong>Riemannian Preconditioning</strong>.
+<b><u>TL;DR:</u></b> B4M disentangles content and style customization by separating LoRA into distinct sub-parameter spaces via Partly Learnable Projection, and harmoniously fuses them using Riemannian Preconditioning.
 
 <p class="conf-color">ACM Transactions on Graphics (TOG'25)</p>
 

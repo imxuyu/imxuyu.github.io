@@ -43,6 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <p><b><u>TL;DR:</u></b> Standard MoE routers are task-agnostic and struggle with conflicting generative objectives. TAG-MoE introduces <strong>Predictive Alignment Regularization</strong> to explicitly align internal routing decisions with high-level task semantics, transforming the MoE gate into an intelligent, <strong>task-aware dispatch center</strong> for unified image synthesis.</p>
 
+[**Project**](https://yuci-gpt.github.io/TAG-MoE/) <strong><span class='show_paper_citations'
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

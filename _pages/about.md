@@ -106,18 +106,37 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 </div>
 
 
+# 💻 Internships
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02 - (present)*, [Bytedance](https://www.bytedance.com/en), Research Intern. Beijing, China.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **Unified Multimodal Video Generation**.
+
+  - Focusing on research and algorithmic innovations for multimodal video generation. (Work in progress)
+
+- *2025.06 - 2026.02*, [Tencent Hunyuan](https://hunyuan.tencent.com/), Research Intern. Beijing, China.
+
+  **Unified Multimodal Image Generation** based on Mixture of Experts (MoE).
+  
+  - Proposed a task-aware gating mechanism in MoE for unified image generation and editing. (Accepted by **CVPR 2026**)
+  - 
+  - Curated large-scale datasets and trained the unified image generation model, contributing to the visual generation capabilities of **Tencent Yuanbao**.
+
+
+
+
+# 📑 Professional Activities
+
+#### Conference Reviewer
+
+- **2025**: ICCV, AAAI, CVPR
+
+- **2024**: ECCV, ACM MM, NeurIPS, AAAI
+
+#### Journal Reviewer
+
+- IEEE Transactions on Multimedia
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.05*, The 6th Academic Forum on Artificial Intelligence of Beijing Universities.

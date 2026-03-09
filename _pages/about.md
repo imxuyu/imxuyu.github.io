@@ -52,22 +52,6 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 </div>
 </div>
 
-<!-- paper x -->
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">TOG 2026</div><img src='images/HeadRouter.png' loading="lazy" alt="HeadRouter"></div></div>
-<div class='paper-box-text' markdown="1">
-[Headrouter: A training-free image editing framework for mm-dits by adaptively routing attention heads](https://yuci-gpt.github.io/HeadRouter/)
-
-**Yu Xu**, Fan Tang, Juan Cao, Xiaoyu Kong, Yuxin Zhang, Jintao Li, Oliver Deussen, Tong-Yee Lee
-
-<b><u>TL;DR:</u></b> <p><b><u>TL;DR:</u></b> This work investigates the semantic sensitivity of attention heads in MM-DiTs  and introduces a <strong>training-free</strong> framework that adaptively routes and reinforces these heads for instance-specific image editing.
-
-<p class="conf-color">ACM Transactions on Graphics (TOG'26)</p>
-
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-HeadRouter-orange.svg)](https://yuci-gpt.github.io/HeadRouter/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2411.15034) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2411.15034) [![code](https://img.shields.io/github/stars/ICTMCG/HeadRouter?style=social&label=Code+Stars)](https://github.com/ICTMCG/HeadRouter)
-
-</div>
-</div>
 
 <!-- paper x -->
 <div class='paper-box'>
@@ -77,7 +61,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 **Yu Xu**, Fan Tang, Juan Cao, Xiaoyu Kong, Yuxin Zhang, Jintao Li, Oliver Deussen, Tong-Yee Lee
 
-<b><u>TL;DR:</u></b> <p><b><u>TL;DR:</u></b> HeadRouter investigates the semantic sensitivity of attention heads in MM-DiTs  and introduces a <strong>training-free</strong> framework that adaptively routes and reinforces these heads for instance-specific image editing.
+<b><u>TL;DR:</u></b> HeadRouter investigates the semantic sensitivity of attention heads in MM-DiTs  and introduces a <strong>training-free</strong> framework that adaptively routes and reinforces these heads for instance-specific image editing.
 
 <p class="conf-color">ACM Transactions on Graphics (TOG'26)</p>
 
@@ -85,6 +69,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 </div>
 </div>
+
 
 <!-- paper x -->
 <div class='paper-box'>
@@ -94,11 +79,29 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 **Yu Xu**, Fan Tang, You Wu, Lin Gao, Oliver Deussen, Hongbin Yan, Jintao Li, Juan Cao, Tong-Yee Lee
 
-<b><u>TL;DR:</u></b> <p><b><u>TL;DR:</u></b> In-Context Brush is a zero-shot customized subject insertion framework that reformulates the task as In-Context Learning (ICL) in MM-DiTs, utilizing latent feature shifting and head-wise reweighting to achieve high-fidelity, text-controllable subject injection without any model tuning.
+<b><u>TL;DR:</u></b> In-Context Brush is a zero-shot customized subject insertion framework that reformulates the task as In-Context Learning (ICL) in MM-DiTs, utilizing latent feature shifting and head-wise reweighting to achieve high-fidelity, text-controllable subject injection without any model tuning.
 
 <p class="conf-color">ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH ASIA'26)</p>
 
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-HeadRouter-orange.svg)](https://yuci-gpt.github.io/HeadRouter/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2411.15034) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2411.15034) [![code](https://img.shields.io/github/stars/ICTMCG/HeadRouter?style=social&label=Code+Stars)](https://github.com/ICTMCG/HeadRouter)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-InContextBrush-orange.svg)](https://yuci-gpt.github.io/In-Context-Brush/) [![arxiv](https://img.shields.io/badge/ArXiv-2505.20271-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.20271) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2505.20271) [![code](https://img.shields.io/github/stars/ICTMCG/In-context-Brush?style=social&label=Code+Stars)](https://github.com/ICTMCG/In-context-Brush)
+
+</div>
+</div>
+
+
+<!-- paper x -->
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">TOG 2025</div><img src='images/B4M.png' loading="lazy" alt="B4M"></div></div>
+<div class='paper-box-text' markdown="1">
+[B4M: Breaking Low-Rank Adapter for Making Content-Style Customization](https://dl.acm.org/doi/full/10.1145/3728461)
+
+**Yu Xu**, F Tang, J Cao, Y Zhang, O Deussen, W Dong, J Li, TY Lee
+
+<b><u>TL;DR:</u></b> B4M introduces a novel "break-for-make" pipeline that disentangles content and style customization by separating LoRA into distinct sub-parameter spaces via <strong>Partly Learnable Projection (PLP)</strong>, and harmoniously fuses them using <strong>Riemannian Preconditioning</strong>.
+
+<p class="conf-color">ACM Transactions on Graphics (TOG'25)</p>
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-B4M-orange.svg)](https://yuci-gpt.github.io/B4M/) [![arxiv](https://img.shields.io/badge/ArXiv-2403.19456-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2403.19456) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2403.19456) [![code](https://img.shields.io/github/stars/ICTMCG/B4M?style=social&label=Code+Stars)](https://github.com/ICTMCG/B4M)
 
 </div>
 </div>

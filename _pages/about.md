@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS), co-advised by Prof. [Juan Cao]([https://github.com/](https://scholar.google.com/citations?user=fSBdNg0AAAAJ)), Prof. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
+I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS), co-advised by Prof. [Juan Cao]([https://github.com/](https://scholar.google.com/citations?user=fSBdNg0AAAAJ)), Prof. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
 My research interests lie primarily in Visual Generation and Multimodal Large Language Models. I am passionate about advancing the frontiers of AI-driven content creation and multimodal understanding.
 Currently, I am a Research Intern at **ByteDance**, focusing on foundational research for multimodal video generation. Prior to this, I was a Research Intern at **Tencent Hunyuan**, where I worked on unified image generation models. 
 
@@ -34,16 +34,37 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<!-- paper 10 -->
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/reason-svg.png' loading="lazy" alt="ReasonSVG"></div></div>
+<div class='paper-box-text' markdown="1">
+[Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation](https://arxiv.org/abs/2505.24499)
+
+**Ximing Xing**, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu
+
+<b><u>TL;DR:</u></b> Reason-SVG introduces the first framework to enhance SVG generation in LLMs through a **"Drawing-with-Thought" (DwT)** paradigm—combining explicit design reasoning with code—trained via supervised fine-tuning and **HyperReward-driven** reinforcement learning.
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TAG-MoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts](https://yuci-gpt.github.io/TAG-MoE/)
 
 **Yu Xu**, Hongbin Yan, Juan Cao, Yiji Cheng, Tiankai Hang, Runze He, Zijin Yin, Shiyi Zhang, Yuxin Zhang, Jintao Li, Chunyu Wang, Qinglin Lu, Tong-Yee Lee, Fan Tang
 
-<p><b><u>TL;DR:</u></b> Standard MoE routers are task-agnostic and struggle with conflicting generative objectives. TAG-MoE introduces <strong>Predictive Alignment Regularization</strong> to explicitly align internal routing decisions with high-level task semantics, transforming the MoE gate into an intelligent, <strong>task-aware dispatch center</strong> for unified image synthesis.</p>
+<b><u>TL;DR:</u></b> Standard MoE routers are task-agnostic and struggle with conflicting generative objectives. TAG-MoE introduces <strong>Predictive Alignment Regularization</strong> to explicitly align internal routing decisions with high-level task semantics, transforming the MoE gate into an intelligent, <strong>task-aware dispatch center</strong> for unified image synthesis.
 
-[**Project**](https://yuci-gpt.github.io/TAG-MoE/) <strong><span class='show_paper_citations'
+<p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR'26)</p>
+
+[**Project**](https://yuci-gpt.github.io/TAG-MoE/) | [**Code**](https://github.com/ICTMCG/TAG-MoE)
+</div>
+</div>
+
+<!-- paper 10 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

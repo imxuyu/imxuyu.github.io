@@ -17,17 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS), co-advised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ), Prof. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
-My research interests lie primarily in Visual Generation and Multimodal Large Language Models. I am passionate about advancing the frontiers of AI-driven content creation and multimodal understanding.
-Currently, I am a Research Intern at **ByteDance**, focusing on foundational research for multimodal video generation. Prior to this, I was a Research Intern at **Tencent Hunyuan**, where I worked on unified image generation models. 
+I am Yu Xu (徐榆), currently a Ph.D. student in Computer Application Technology at the University of Chinese Academy of Sciences (UCAS), supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
 
-Before starting my Ph.D., I received my Master of Science in Computer Science from **The University of Hong Kong (HKU)**, supervised by Prof. [Benjamin Kao](https://scholar.google.com/citations?hl=en&user=TwSParMAAAAJ), where my research centered on Visual Question Answering. I also spent a wonderful time as a Research Assistant at **Kyoto University** in Japan, working on image enhancement algorithms under the guidance of Prof. [Masaaki Iiyama](https://scholar.google.com/citations?hl=en&user=MI-yYJYAAAAJ).
+Currently, I am a Research Intern at **ByteDance**, working on unified multimodal video generation research. Prior to this, I was a Research Intern at **Tencent Hunyuan**, where I worked on unified image generation models research. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before starting my Ph.D., I received my Master of Science in Computer Science from **The University of Hong Kong (HKU)**, supervised by Prof. [Benjamin Kao](https://scholar.google.com/citations?hl=en&user=TwSParMAAAAJ), where my research focus on Visual Question Answering. I also spent a wonderful time as a Research Assistant at **Kyoto University** in Japan, working on image enhancement algorithms under the guidance of Prof. [Masaaki Iiyama](https://scholar.google.com/citations?hl=en&user=MI-yYJYAAAAJ) and Dr. [Atsushi Hashimoto](https://scholar.google.com/citations?user=DHIGVL8AAAAJ).
 
+My research interests lie primarily in Visual Generation and Multimodal Large Language Models. I am passionate about advancing the frontiers of Artificial Intelligence Generated Content (AIGC) and multimodal understanding.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our paper [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/) has been accepted by CVPR 2026!
+- *2026.02*: &nbsp;🎉🎉 Our paper [Re-align](https://arxiv.org/abs/2601.05124) has been accepted by CVPR 2026!
+- *2026.02*: &nbsp;🎉🎉 Our paper [Meta-CoT] has been accepted by CVPR 2026!
 - *2026.01*: &nbsp;🎉🎉 Our paper [HeadRouter](https://yuci-gpt.github.io/headrouter/) has been accepted by ACM TOG 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper [In-Context Brush](https://yuci-gpt.github.io/In-Context-Brush/) has been accepted by SIGGRAPH ASIA 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M/) has been accepted by ACM TOG 2025!
@@ -54,7 +55,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- paper x -->
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/HeadRouter.png' loading="lazy" alt="HeadRouter"></div></div>
+<div class='paper-box-image'><div><div class="badge">TOG 2026</div><img src='images/HeadRouter.png' loading="lazy" alt="HeadRouter"></div></div>
 <div class='paper-box-text' markdown="1">
 [Headrouter: A training-free image editing framework for mm-dits by adaptively routing attention heads](https://yuci-gpt.github.io/HeadRouter/)
 
@@ -64,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <p class="conf-color">ACM Transactions on Graphics (TOG'26)</p>
 
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-HeadRouter-orange.svg)](https://yuci-gpt.github.io/HeadRouter/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2411.15034) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2411.15034) [![code](https://img.shields.io/github/stars/ICTMCG/TAG-MoE?style=social&label=Code+Stars)](https://github.com/ICTMCG/HeadRouter)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-HeadRouter-orange.svg)](https://yuci-gpt.github.io/HeadRouter/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2411.15034) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2411.15034) [![code](https://img.shields.io/github/stars/ICTMCG/HeadRouter?style=social&label=Code+Stars)](https://github.com/ICTMCG/HeadRouter)
 
 </div>
 </div>

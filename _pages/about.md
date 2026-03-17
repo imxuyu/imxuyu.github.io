@@ -34,6 +34,9 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 - *2025.08*: &nbsp;🎉🎉 Our paper [In-Context Brush](https://yuci-gpt.github.io/In-Context-Brush/) has been accepted by SIGGRAPH ASIA 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M/) has been accepted by ACM TOG 2025!
 
+
+
+<span class='anchor' id='-publications'></span>
 # 📝 Selected Publications 
 <!-- paper x -->
 <div class='paper-box'>

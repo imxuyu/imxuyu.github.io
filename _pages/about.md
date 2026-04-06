@@ -50,8 +50,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 <p class="conf-color">IEEE Conference on Computer Vision and Pattern Recognition (CVPR'26)</p>
 
-[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-TAGMoE-orange.svg)](https://yuci-gpt.github.io/TAG-MoE/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.08881) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2601.08881) [![code](https://img.shields.io/github/stars/ICTMCG/TAG-MoE?style=social&label=Code+Stars)](https://github.com/ICTMCG/TAG-MoE)
-
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-TAGMoE-orange.svg)](https://yuci-gpt.github.io/TAG-MoE/) [![arxiv](https://img.shields.io/badge/ArXiv-2601.08881-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.08881) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2601.08881) [![code](https://img.shields.io/github/stars/ICTMCG/TAG-MoE?style=social&label=Code+Stars)](https://github.com/ICTMCG/TAG-MoE) [![HF%20Space-Demo](https://img.shields.io/badge/%F0%9F%A4%97%20HF%20Demo-Space-yellow.svg?logo=huggingface)](https://huggingface.co/spaces/YUXU915/TAG-MoE)
 </div>
 </div>
 

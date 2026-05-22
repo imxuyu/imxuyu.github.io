@@ -131,7 +131,8 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 # 📑 Professional Activities
 
 #### Conference Reviewer
-
+- **2026**: NeurIPS, Siggraph Asia
+  
 - **2025**: ICCV, AAAI, CVPR
 
 - **2024**: ECCV, ACM MM, NeurIPS, AAAI
@@ -142,4 +143,5 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 
 # 💬 Invited Talks
-- *2025.05*, The 6th Academic Forum on Artificial Intelligence of Beijing Universities.
+- *2026.05*, The 8th Academic Forum on Artificial Intelligence of Beijing Universities.
+- *2025.05*, The 7th Academic Forum on Artificial Intelligence of Beijing Universities.

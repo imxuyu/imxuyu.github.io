@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yu Xu (徐榆), a Ph.D. student in Computer Science at **University of Chinese Academy of Sciences**, supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
+I am Yu Xu (徐榆). I received my Ph.D. in Computer Science from **University of Chinese Academy of Sciences** in 2026, supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
 
 Currently, I am a researcher on the [**Kling-Image Team**](https://klingai.com/app/omni/new) at [**Kling AI**](https://klingai.com/), where I am responsible for foundation model pre-training. Prior to this, I was a Research Intern at **ByteDance**, working on unified multimodal video generation, and at **Tencent Hunyuan**, where my work focused on unified image generation models. 
 

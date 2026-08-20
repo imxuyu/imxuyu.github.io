@@ -19,13 +19,14 @@ redirect_from:
 
 I am Yu Xu (徐榆), a Ph.D. student in Computer Science at **University of Chinese Academy of Sciences**, supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
 
-Currently, I am a Research Intern at **ByteDance**, working on unified multimodal video generation. Prior to this, I was a Research Intern at **Tencent Hunyuan**, where my work focused on unified image generation models. 
+Currently, I am a researcher on the [**Kling-Image Team**](https://klingai.com/app/omni/new) at [**Kling AI**](https://klingai.com/), where I am responsible for foundation model pre-training. Prior to this, I was a Research Intern at **ByteDance**, working on unified multimodal video generation, and at **Tencent Hunyuan**, where my work focused on unified image generation models. 
 
 Before starting my Ph.D., I received my Master of Science in Computer Science from **The University of Hong Kong**, supervised by Prof. [Benjamin Kao](https://scholar.google.com/citations?hl=en&user=TwSParMAAAAJ), where my research focused on Visual Question Answering. I also spent a wonderful time as a Research Assistant at **Kyoto University** in Japan, working on image enhancement algorithms supervised by Prof. [Masaaki Iiyama](https://scholar.google.com/citations?hl=en&user=MI-yYJYAAAAJ) and Dr. [Atsushi Hashimoto](https://scholar.google.com/citations?user=DHIGVL8AAAAJ).
 
 My research interests lie primarily in Visual Generation and Multimodal Large Language Models. I am passionate about advancing the frontiers of Artificial Intelligence Generated Content (AIGC) and multimodal understanding.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper [Beyond Pixels](https://arxiv.org/abs/2602.01335) has been accepted by SIGGRAPH ASIA 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/) has been accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [Re-align](https://hrz2000.github.io/realign/) has been accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [Meta-CoT](https://shiyi-zh0408.github.io/projectpages/Meta-CoT/) has been accepted by CVPR 2026!
@@ -38,6 +39,24 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 <span class='anchor' id='-publications'></span>
 # 📝 Selected Publications 
+<!-- paper x -->
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">SIGGRAPH ASIA 2026</div><img src='images/BeyondPixels.png' loading="lazy" alt="BeyondPixels"></div></div>
+<div class='paper-box-text' markdown="1">
+[Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning](https://arxiv.org/abs/2602.01335)
+
+**Yu Xu**, Yuxin Zhang, Lin Gao, Oliver Deussen, Tong-Yee Lee, Fan Tang
+
+<b><u>TL;DR:</u></b> Beyond Pixels introduces the task of Visual Metaphor Transfer (VMT) and a cognitive-inspired multi-agent framework that distills the "creative essence" of a reference image into a structured Schema Grammar, then re-instantiates the abstract relational logic onto user-specified targets with closed-loop diagnostic backtracking.
+
+<p class="conf-color">ACM Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH ASIA'26)</p>
+
+[![arxiv](https://img.shields.io/badge/ArXiv-2602.01335-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.01335) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2602.01335)
+
+</div>
+</div>
+
+
 <!-- paper x -->
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/TAG-MoE.png' loading="lazy" alt="TAG-MoE"></div></div>
@@ -109,13 +128,19 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 </div>
 
 
-# 💻 Internships
+# 💻 Experience
 
-- *2026.02 - (present)*, [Bytedance](https://www.bytedance.com/en), Research Intern. Beijing, China.
+- *2026.06 - (present)*, [Kling AI](https://klingai.com/), Full-time Researcher. Beijing, China.
+
+  **Kling-Image Foundation Model**.
+
+  - Responsible for the pre-training of the Kling-Image foundation model. (Work in progress)
+
+- *2026.02 - 2026.06*, [Bytedance](https://www.bytedance.com/en), Research Intern. Beijing, China.
 
   **Unified Multimodal Video Generation**.
 
-  - Focusing on research and algorithmic innovations for multimodal video generation. (Work in progress)
+  - Focused on research and algorithmic innovations for multimodal video generation.
 
 - *2025.06 - 2026.02*, [Tencent Hunyuan](https://hunyuan.tencent.com/), Research Intern. Beijing, China.
 

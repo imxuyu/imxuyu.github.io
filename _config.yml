@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yu Xu"
-description              : "Ph.D. student at UCAS. Interested in Visual Generation and multi-modal large models."
+description              : "Researcher at Kling AI. Interested in Visual Generation and multi-modal large models."
 repository               : "imxuyu/imxuyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yu Xu"
   avatar           : "images/portrait.png"
-  bio              : "University of Chinese Academy of Sciences"
+  bio              : "Researcher at Kling AI"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

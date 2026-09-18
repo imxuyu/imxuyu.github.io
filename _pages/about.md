@@ -26,7 +26,7 @@ Before starting my Ph.D., I received my Master of Science in Computer Science fr
 My research interests lie primarily in Visual Generation and Multimodal Large Language Models. I am passionate about advancing the frontiers of Artificial Intelligence Generated Content (AIGC) and multimodal understanding.
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Our paper [Beyond Pixels](https://arxiv.org/abs/2602.01335) has been accepted by SIGGRAPH ASIA 2026!
+- *2026.08*: &nbsp;🎉🎉 Our paper [Beyond Pixels](https://yuci-gpt.github.io/Beyond-Pixels/) has been accepted by SIGGRAPH ASIA 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/) has been accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [Re-align](https://hrz2000.github.io/realign/) has been accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [Meta-CoT](https://shiyi-zh0408.github.io/projectpages/Meta-CoT/) has been accepted by CVPR 2026!
@@ -43,7 +43,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">SIGGRAPH ASIA 2026</div><img src='images/BeyondPixels.png' loading="lazy" alt="BeyondPixels"></div></div>
 <div class='paper-box-text' markdown="1">
-[Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning](https://arxiv.org/abs/2602.01335)
+[Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning](https://yuci-gpt.github.io/Beyond-Pixels/)
 
 **Yu Xu**, Yuxin Zhang, Lin Gao, Oliver Deussen, Tong-Yee Lee, Fan Tang
 
@@ -51,7 +51,7 @@ My research interests lie primarily in Visual Generation and Multimodal Large La
 
 <p class="conf-color">ACM Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH ASIA'26)</p>
 
-[![arxiv](https://img.shields.io/badge/ArXiv-2602.01335-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.01335) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2602.01335)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-BeyondPixels-orange.svg)](https://yuci-gpt.github.io/Beyond-Pixels/) [![arxiv](https://img.shields.io/badge/ArXiv-2602.01335-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.01335) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2602.01335) [![code](https://img.shields.io/github/stars/ICTMCG/Beyond-Pixels?style=social&label=Code+Stars)](https://github.com/ICTMCG/Beyond-Pixels) [![skill](https://img.shields.io/badge/%F0%9F%A7%A9%20Agent%20Skill-VMT-blueviolet.svg)](https://github.com/ICTMCG/Beyond-Pixels/tree/main/visual-metaphor-transfer)
 
 </div>
 </div>

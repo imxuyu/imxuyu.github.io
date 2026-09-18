@@ -23,7 +23,7 @@ Currently, I am a researcher on the [**Kling-Image Team**](https://klingai.com/a
 
 Before starting my Ph.D., I received my Master of Science in Computer Science from **The University of Hong Kong**, supervised by Prof. [Benjamin Kao](https://scholar.google.com/citations?hl=en&user=TwSParMAAAAJ), where my research focused on Visual Question Answering. I also spent a wonderful time as a Research Assistant at **Kyoto University** in Japan, working on image enhancement algorithms supervised by Prof. [Masaaki Iiyama](https://scholar.google.com/citations?hl=en&user=MI-yYJYAAAAJ) and Dr. [Atsushi Hashimoto](https://scholar.google.com/citations?user=DHIGVL8AAAAJ).
 
-My research interests lie primarily in Visual Generation and Multimodal Large Language Models. I am passionate about advancing the frontiers of Artificial Intelligence Generated Content (AIGC) and multimodal understanding.
+My research interests lie primarily in generative AI, with a focus on large-scale pre-training of generative foundation models and unified multimodal modeling.
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 Our paper [Beyond Pixels](https://yuci-gpt.github.io/Beyond-Pixels/) has been accepted by SIGGRAPH ASIA 2026!

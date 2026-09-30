@@ -26,6 +26,7 @@ Before starting my Ph.D., I received my Master of Science in Computer Science fr
 My research interests lie primarily in generative AI, with a focus on large-scale pre-training of generative foundation models and unified multimodal modeling.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper [SplitMoE](https://yuci-gpt.github.io/SplitMoE/) has been accepted by NeurIPS 2026 as a <b>Spotlight</b>!
 - *2026.08*: &nbsp;🎉🎉 Our paper [Beyond Pixels](https://yuci-gpt.github.io/Beyond-Pixels/) has been accepted by SIGGRAPH ASIA 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/) has been accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Our paper [Re-align](https://hrz2000.github.io/realign/) has been accepted by CVPR 2026!
@@ -39,6 +40,24 @@ My research interests lie primarily in generative AI, with a focus on large-scal
 
 <span class='anchor' id='-publications'></span>
 # 📝 Selected Publications 
+<!-- paper x -->
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/SplitMoE.png' loading="lazy" alt="SplitMoE"></div></div>
+<div class='paper-box-text' markdown="1">
+[Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE](https://yuci-gpt.github.io/SplitMoE/)
+
+**Yu Xu**, Yuxin Zhang, Xiao Yang, Haotian Yang, Yizhi Wang, Xinwei Huang, Minxuan Lin, Angtian Wang, Chongyang Ma, Fan Tang
+
+<b><u>TL;DR:</u></b> SplitMoE escapes the "uniformity trap" of token-wise MoE in video diffusion by bifurcating the expert pool into semantic and generic experts with prototype-guided routing and pull-push regularization, achieving faster convergence, more coherent routing, and higher video quality under the same activated-parameter budget.
+
+<p class="conf-color">Conference on Neural Information Processing Systems (NeurIPS'26), <b>Spotlight</b></p>
+
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SplitMoE-orange.svg)](https://yuci-gpt.github.io/SplitMoE/) [![arxiv](https://img.shields.io/badge/ArXiv-2609.38140-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2609.38140) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2609.38140)
+
+</div>
+</div>
+
+
 <!-- paper x -->
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">SIGGRAPH ASIA 2026</div><img src='images/BeyondPixels.png' loading="lazy" alt="BeyondPixels"></div></div>
@@ -140,7 +159,7 @@ My research interests lie primarily in generative AI, with a focus on large-scal
 
   **Unified Multimodal Video Generation**.
 
-  - Focused on research and algorithmic innovations for multimodal video generation.
+  - Proposed SplitMoE, a split-role sparse architecture for scaling video diffusion models. (Accepted by **NeurIPS 2026** as Spotlight)
 
 - *2025.06 - 2026.02*, [Tencent Hunyuan](https://hunyuan.tencent.com/), Research Intern. Beijing, China.
 

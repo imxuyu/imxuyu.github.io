@@ -19,19 +19,16 @@ redirect_from:
 
 I am Yu Xu (徐榆). I received my Ph.D. in Computer Science from **University of Chinese Academy of Sciences** in 2026, supervised by Prof. [Juan Cao](https://scholar.google.com/citations?user=fSBdNg0AAAAJ) and Dr. [Fan Tang](https://scholar.google.com/citations?user=PdKElfwAAAAJ). 
 
-Currently, I am a researcher on the [**Kling-Image Team**](https://klingai.com/app/omni/new) at [**Kling AI**](https://klingai.com/), where I am responsible for foundation model pre-training. Prior to this, I was a Research Intern at **ByteDance**, working on unified multimodal video generation, and at **Tencent Hunyuan**, where my work focused on unified image generation models. 
+Currently, I am a researcher on the [**Kling-Image Team**](https://klingai.com/app/omni/new) at [**Kling AI**](https://klingai.com/), where I am responsible for foundation model pre-training. Prior to this, I was a Research Intern at **ByteDance**, working on scaling video generation with Mixture of Experts (MoE), and at **Tencent Hunyuan**, where my work focused on unified image generation models. 
 
 Before starting my Ph.D., I received my Master of Science in Computer Science from **The University of Hong Kong**, supervised by Prof. [Benjamin Kao](https://scholar.google.com/citations?hl=en&user=TwSParMAAAAJ), where my research focused on Visual Question Answering. I also spent a wonderful time as a Research Assistant at **Kyoto University** in Japan, working on image enhancement algorithms supervised by Prof. [Masaaki Iiyama](https://scholar.google.com/citations?hl=en&user=MI-yYJYAAAAJ) and Dr. [Atsushi Hashimoto](https://scholar.google.com/citations?user=DHIGVL8AAAAJ).
 
 My research interests lie primarily in generative AI, with a focus on large-scale pre-training of generative foundation models and unified multimodal modeling.
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Our paper [SplitMoE](https://yuci-gpt.github.io/SplitMoE/) has been accepted by NeurIPS 2026 as a <b>Spotlight</b>!
+- *2026.09*: &nbsp;🎉🎉 Our paper [SplitMoE](https://yuci-gpt.github.io/SplitMoE/) has been accepted by NeurIPS 2026 as a <b>Spotlight</b> (0.95%)!
 - *2026.08*: &nbsp;🎉🎉 Our paper [Beyond Pixels](https://yuci-gpt.github.io/Beyond-Pixels/) has been accepted by SIGGRAPH ASIA 2026!
-- *2026.02*: &nbsp;🎉🎉 Our paper [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/) has been accepted by CVPR 2026!
-- *2026.02*: &nbsp;🎉🎉 Our paper [Re-align](https://hrz2000.github.io/realign/) has been accepted by CVPR 2026!
-- *2026.02*: &nbsp;🎉🎉 Our paper [Meta-CoT](https://shiyi-zh0408.github.io/projectpages/Meta-CoT/) has been accepted by CVPR 2026!
-- *2026.02*: &nbsp;🎉🎉 Our paper [GVCoT](https://pris-cv.github.io/GVCoT/) has been accepted by CVPR 2026-findings!
+- *2026.02*: &nbsp;🎉🎉 Our papers [TAG-MoE](https://yuci-gpt.github.io/TAG-MoE/), [Re-align](https://hrz2000.github.io/realign/), [Meta-CoT](https://shiyi-zh0408.github.io/projectpages/Meta-CoT/), and [GVCoT](https://pris-cv.github.io/GVCoT/) (Findings) have been accepted by CVPR 2026!
 - *2026.01*: &nbsp;🎉🎉 Our paper [HeadRouter](https://yuci-gpt.github.io/headrouter/) has been accepted by ACM TOG 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper [In-Context Brush](https://yuci-gpt.github.io/In-Context-Brush/) has been accepted by SIGGRAPH ASIA 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper [B4M](https://yuci-gpt.github.io/B4M/) has been accepted by ACM TOG 2025!
@@ -50,7 +47,7 @@ My research interests lie primarily in generative AI, with a focus on large-scal
 
 <b><u>TL;DR:</u></b> SplitMoE escapes the "uniformity trap" of token-wise MoE in video diffusion by bifurcating the expert pool into semantic and generic experts with prototype-guided routing and pull-push regularization, achieving faster convergence, more coherent routing, and higher video quality under the same activated-parameter budget.
 
-<p class="conf-color">Conference on Neural Information Processing Systems (NeurIPS'26), <b>Spotlight</b></p>
+<p class="conf-color">Conference on Neural Information Processing Systems (NeurIPS'26), <b>Spotlight</b> (0.95%)</p>
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-SplitMoE-orange.svg)](https://yuci-gpt.github.io/SplitMoE/) [![arxiv](https://img.shields.io/badge/ArXiv-2609.38140-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2609.38140) [![hf-paper](https://img.shields.io/badge/HF%20Paper-Daily-ffcc00.svg?logo=huggingface)](https://huggingface.co/papers/2609.38140)
 
@@ -157,9 +154,9 @@ My research interests lie primarily in generative AI, with a focus on large-scal
 
 - *2026.02 - 2026.06*, [Bytedance](https://www.bytedance.com/en), Research Intern. Beijing, China.
 
-  **Unified Multimodal Video Generation**.
+  **Scaling Video Generation with MoE**.
 
-  - Proposed SplitMoE, a split-role sparse architecture for scaling video diffusion models. (Accepted by **NeurIPS 2026** as Spotlight)
+  - Proposed SplitMoE, a split-role sparse architecture for scaling video diffusion models. (Accepted by **NeurIPS 2026** as Spotlight, 0.95%)
 
 - *2025.06 - 2026.02*, [Tencent Hunyuan](https://hunyuan.tencent.com/), Research Intern. Beijing, China.
 
